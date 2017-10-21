@@ -1,0 +1,20 @@
+{
+  "name": "digitallivsstil.no",
+  "version": "1.0.0",
+  "description": "Website for digitallivsstil.no",
+  "main": "index.js",
+  "scripts": {
+    "start": "watch-http-server ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sondreb/digitallivsstil.no.git"
+  },
+  "author": "Sondre Bjellås",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sondreb/digitallivsstil.no/issues"
+  },
+  "homepage": "https://github.com/sondreb/digitallivsstil.no#readme"
+}
